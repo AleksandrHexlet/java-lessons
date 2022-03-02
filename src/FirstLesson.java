@@ -79,6 +79,7 @@ public class FirstLesson {
         System.out.println(40 <= 40); // true
         System.out.println(400 != 40); // true
 
+
         // тернарный оператор
         int start = 3, end = 5000;
         int result = start < end ? end - start : 0;
